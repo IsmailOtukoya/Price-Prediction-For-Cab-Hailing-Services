@@ -109,8 +109,6 @@ For this dataset I am  using Gradient Boosted Tree, Random Forest and Convolutio
 We evaluate not just the models you create but also the process that we used to create them, and their potential for practical use. The general evaluation metrics we use are Accuracy, Precision, and Recall, F1 Score, AUC-ROC Curve.
 
 ## Bias, Fairness, and Trust in AI
-This topic is written as we are inspired by Dr. Doug Haugue, Professor of Practice - UNCC Data Science Initiative. <br>
-Bias is often identified as one of the major risks associated with artificial intelligence (AI) systems. Recently reported cases of known bias in AI — racism in the criminal justice system, gender discrimination in hiring — are undeniably worrisome. The public discussion about bias in such scenarios often assigns blame to the algorithm itself. The algorithm, it is said, has made the wrong decision, to the detriment of a particular group. But this claim fails to take into account the human component: People perceive bias through the subjective lens of fairness.<br>
 
 Here it can be helpful to consider how I am  defining both bias and fairness. Bias occurs when we discriminate against (or promote) a defined group consciously or unconsciously, and it can creep into an AI system as a result of skewed data or an algorithm that does not account for skewed data. For example, an AI system that reviews job applicants by learning from a company’s historical data could end up discriminating against a particular gender or race if that group were underrepresented in the company’s hiring in the past.<br>
 
